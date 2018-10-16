@@ -1,0 +1,15 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53548:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/andrewrobertson/IdeaProjects/Ultima5/out/production/Ultima5 Main
+It is 9:51 on day 48 of the year 321.
+Trammel is in day 1 of its 9 day phase.
+Felluca is in day 4 of its 14 day phase
+
+It is 2:55 on day 231 of the year 521.
+Trammel is in day 5 of its 9 day phase.
+Felluca is in day 9 of its 14 day phase
+
+It is 0:11 on day 13 of the year 129.
+Trammel is in day 5 of its 9 day phase.
+Felluca is in day 1 of its 14 day phase
+
+
+Process finished with exit code 0
