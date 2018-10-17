@@ -7,13 +7,13 @@ public class Main {
         worldTime = 168260271;
         timeCalculator();
 
-        worldTime = 273643375;
+        worldTime = 27364375;
         timeCalculator();
 
         worldTime = 67294091;
         timeCalculator();
 
-        //168260271 273643375 67294091
+        //168260271 27364375 67294091
     }
 
     public static void timeCalculator() {
