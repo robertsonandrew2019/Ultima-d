@@ -26,13 +26,14 @@ public class Main {
         int hours = minutes / 60;
         minutes = minutes % 60;
 
+	System.out.printf("\nworldTime = %d\n", worldTime);
         System.out.printf("It is %d:%02d on day %d of the year %d.\n", hours, minutes, days, year);
-
+	    
         int moonDays = worldTime / 1440;
         int trammel = (moonDays % 9) + 1;
         int felluca = (moonDays % 14) + 1;
 
         System.out.printf("Trammel is in day %d of its 9 day phase.\n", trammel);
-        System.out.printf("Felluca is in day %d of its 14 day phase\n\n", felluca);
+        System.out.printf("Felluca is in day %d of its 14 day phase\n", felluca);
     }
 }
